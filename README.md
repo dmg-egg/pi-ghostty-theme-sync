@@ -2,6 +2,8 @@
 
 Sync [pi](https://github.com/badlogic/pi-mono) theme with your active [Ghostty](https://ghostty.org/) terminal colors.
 
+![demo](https://raw.githubusercontent.com/ogulcancelik/pi-ghostty-theme-sync/main/assets/demo.gif)
+
 On startup, the extension runs `ghostty +show-config`, generates a pi theme, and switches pi to it.
 
 ## install
