@@ -7,11 +7,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ogulcancelik/pi-ghostty-theme-sync.git"
+    "url": "https://github.com/dmg-egg/pi-ghostty-theme-sync.git"
   },
-  "homepage": "https://github.com/ogulcancelik/pi-ghostty-theme-sync",
+  "homepage": "https://github.com/dmg-egg/pi-ghostty-theme-sync",
   "bugs": {
-    "url": "https://github.com/ogulcancelik/pi-ghostty-theme-sync/issues"
+    "url": "https://github.com/dmg-egg/pi-ghostty-theme-sync/issues"
   },
   "files": ["extensions", "README.md", "package.json", "LICENSE"],
   "peerDependencies": {
